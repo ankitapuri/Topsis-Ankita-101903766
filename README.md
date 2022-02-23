@@ -5,4 +5,4 @@
 ```pip install Topsis-AnkitaPuri-101903766```
 
 # For cmd 
-```python 101903766.py 101903766-data.csv “1,1,1,2” “+,+,-,+” 101556-result.csv
+```python 101903766.py 101903766-data.csv “1,1,1,2” “+,+,-,+” 101903766-result.csv```
